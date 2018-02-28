@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Feb 27 15:11:18 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0161-d876-2acd-000000c4a8c0 
+on database directory C:\000000\JM\00_JM\JM_Exercícios\JM_Exercicios\Banco_De_Dados  with class loader sun.misc.Launcher$AppClassLoader@d93b30 
+Loaded from file:/C:/000000/JM/00_JM/JM_Exerc%c3%adcios/JM_Exercicios/dist/run850120771/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\000000\JM\00_JM\JM_Exercícios\JM_Exercicios
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
